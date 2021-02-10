@@ -6,9 +6,9 @@ let cans = {
    numLeftInBox: 11
 }
 
-let result = `There is a box of ${cans.brand} in the fridge. It ${cans.isOpened ? "has been" : "has not been"} opened. There are still ${cans.numLeftInBox} cans in the box.`
+let tuesdayResult = `There is a box of ${cans.brand} in the fridge. It ${cans.isOpened ? "has been" : "has not been"} opened. There are still ${cans.numLeftInBox} cans in the box.`
 
-document.getElementById("tuesday").innerText = result;
+document.getElementById("tuesday").innerText = tuesdayResult;
 
 /* SOLID Principles:
  * S - 

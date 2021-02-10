@@ -2,14 +2,14 @@ body {
    background-color: hsl(105, 22%, 17%);
    color: hsl(116, 61%, 59%);
    text-shadow: 1px 1px 2px hsl(245, 100%, 4%);
-   padding: 1rem;
 }
 
 .daily-challenge-block {
    border-radius: 0.5rem;
    box-shadow: 3px 4px 8px hsl(245, 100%, 4%);
    padding: 1rem;
-   background-color: hsl(120, 37%, 5%);
+   background-color: hsl(120, 35%, 17%);
+   margin: 2rem;
 }
 
 .code-output {
